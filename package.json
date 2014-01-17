@@ -1,0 +1,22 @@
+{
+  "name": "twowaylookup",
+  "version": "0.1.0",
+  "description": "A fast key value forward and reverse lookup library with normalization",
+  "main": "twowaylookup.js",
+  "scripts": {
+    "test": "twowaylookup-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanifbbz/twowaylookup"
+  },
+  "keywords": [ "javascript", "object", "search", "key", "value" ],
+  "author": "Alex Ewerlöf",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/hanifbbz/twowaylookup/issues"
+  },
+  "dependencies": {
+    "nodeunit": "~0.8.2"
+  }
+}
